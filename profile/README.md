@@ -17,6 +17,12 @@ challenge at the end of each day. Every course is tested on real machines, and a
 This organization holds the companion repositories: the code, manifests and lab files you need
 while working through a course. Each course is available in English and German.
 
+## Tools
+
+| Tool | What it does |
+|---|---|
+| [`kubedrill`](https://github.com/itdrills/kubedrill) | Local Kubernetes simulator: practice `kubectl` and troubleshooting without a cluster |
+
 ## Course repositories (35)
 
 ### Kubernetes
