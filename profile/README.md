@@ -23,7 +23,7 @@ while working through a course. Each course is available in English and German.
 |---|---|
 | [`kubedrill`](https://github.com/itdrills/kubedrill) | Local Kubernetes simulator: practice `kubectl` and troubleshooting without a cluster |
 
-## Course repositories (35)
+## Course repositories (36)
 
 ### Kubernetes
 
@@ -83,6 +83,7 @@ while working through a course. Each course is available in English and German.
 | [PostgreSQL hands-on](https://itdrills.com/books/postgresql) | [`postgresql-zum-anfassen`](https://github.com/itdrills/postgresql-zum-anfassen) | Two VMs and a Kubernetes cluster – psql, roles and privileges, configuration and TLS, MVCC and locking, indexes and EXPLAIN, VACUUM, monitoring, logical and physical backups with point-in-time recovery, pgBackRest, streaming and logical replication, PgBouncer, a major upgrade, then CloudNativePG with backups, failover, poolers and monitoring, a competition on broken databases and a final exam. |
 | [Python hands-on](https://itdrills.com/books/python) | [`python-zum-anfassen`](https://github.com/itdrills/python-zum-anfassen) | Modern Python for platform engineers – build a small, useful tool every day, from a word counter to an AI agent with MCP. |
 | [Shell scripting hands-on](https://itdrills.com/books/shell-scripting) | [`shell-scripting-zum-anfassen`](https://github.com/itdrills/shell-scripting-zum-anfassen) | A toolbox for the notes app grows day by day – exit codes and strict mode, quoting, functions and arrays, log analysis with grep, sed and awk, JSON with curl and jq, backups with trap, flock and rotation, tests with bats, ShellCheck and shfmt in CI, signals, cron, systemd timers and ssh. |
+| [System design hands-on](https://itdrills.com/books/system-design) | [`system-design-zum-anfassen`](https://github.com/itdrills/system-design-zum-anfassen) | Instead of boxes on a whiteboard, a real system on three VMs – a URL shortener in Go grows into a distributed system with HAProxy, Valkey, PostgreSQL replicas, PgBouncer and NATS JetStream, idempotency, rate limiting, load shedding, timeouts and circuit breakers, every decision measured with k6. |
 | [The Mac terminal hands-on](https://itdrills.com/books/mac-terminal) | [`mac-terminal-zum-anfassen`](https://github.com/itdrills/mac-terminal-zum-anfassen) | zsh, tmux, fzf, Git, Neovim and modern CLI tools – trained on your own Mac. |
 
 Courses without a companion repository work entirely from the course text. The full catalogue is at
