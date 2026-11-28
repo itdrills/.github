@@ -23,7 +23,7 @@ while working through a course. Each course is available in English and German.
 |---|---|
 | [`kubedrill`](https://github.com/itdrills/kubedrill) | Local Kubernetes simulator: practice `kubectl` and troubleshooting without a cluster |
 
-## Course repositories (36)
+## Course repositories (37)
 
 ### Kubernetes
 
@@ -52,6 +52,7 @@ while working through a course. Each course is available in English and German.
 | [Cilium hands-on](https://itdrills.com/books/cilium) | [`cilium-zum-anfassen`](https://github.com/itdrills/cilium-zum-anfassen) | Two kubeadm clusters without kube-proxy, a BGP router and Cilium as the common thread – CNI and IPAM, Multus, services and eBPF load balancing, CoreDNS, EndpointSlices, Gateway API with TLS, network policies up to layer 7, WireGuard, mutual auth, BGP, egress gateway, ClusterMesh, LLM traffic, Hubble metrics and tracing, a competition on a broken network and a timed practice exam. |
 | [CKAD hands-on](https://itdrills.com/books/ckad) | [`ckad-zum-anfassen`](https://github.com/itdrills/ckad-zum-anfassen) | Three VMs, a kubeadm cluster and a Go API you build into an image yourself – workloads, multi-container pods, volumes, ConfigMaps and Secrets, quotas, security contexts, RBAC, CRDs, rolling updates, blue/green and canary, Helm and Kustomize, probes, debugging, services, Ingress and network policies, broken deployments in a competition and a timed practice exam. |
 | [CKS hands-on](https://itdrills.com/books/cks) | [`cks-zum-anfassen`](https://github.com/itdrills/cks-zum-anfassen) | Three VMs, a kubeadm cluster with Cilium and a real upgrade – network policies, CIS benchmark, TLS and binary checks, RBAC, API server and kubelet hardening, AppArmor, seccomp, Pod Security, encrypted Secrets, gVisor, WireGuard, Trivy, SBOMs, cosign, audit logs, Falco and Tetragon, a competition on an insecure cluster and a timed practice exam. |
+| [CNPE hands-on](https://itdrills.com/books/cnpe) | [`cnpe-zum-anfassen`](https://github.com/itdrills/cnpe-zum-anfassen) | Three VMs, a kubeadm cluster and an internal platform like in a company – tenants with quotas, RBAC and network policies, Argo CD with projects, ApplicationSets and promotion by pull request, Argo Rollouts with analysis, a Tekton pipeline, your own CRDs and Crossplane databases as self-service, Kyverno CEL policies, Prometheus, alerts and OpenCost, a signed supply chain with Trivy, SBOM and cosign, mTLS with Linkerd, a competition on a broken platform and a timed practice exam. |
 
 ### Security
 
